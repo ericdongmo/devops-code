@@ -4,3 +4,5 @@
 <h1> Good job Eric  Devops Project from scratch </h1>
 <h1> We have gone thru the whole circle in this project </h1>
 <h2> Lest's us keep working hard </h2>
+<h3> Devops is a Wonderfull technology </h3>
+<h3> Jenkins is a powerfuul tolls </h3>
